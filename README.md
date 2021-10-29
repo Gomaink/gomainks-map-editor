@@ -1,4 +1,4 @@
-# gomaink-map-editor
+# Gomaink's Map Editor
 
 Um editor de mapas com suporte a texturização para SA-MP, focado em fazer com que os desenvolvedores mobile não dependam de mappers.
 
