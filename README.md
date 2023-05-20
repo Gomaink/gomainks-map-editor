@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/RgYEIa9.png" alt="exemplo imagem">
 
-> Enables the creation of custom markers for SA-MP.
+> Allows creating textured maps on android.
 
 <br>
 
