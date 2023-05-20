@@ -1,4 +1,4 @@
-[![samp-include](https://img.shields.io/badge/sa--mp-library-2f2f2f.svg?style=for-the-badge)](https://github.com/Ramon-Sd/marker-plus)
+[![samp-include](https://img.shields.io/badge/sa--mp-filterscript-2f2f2f.svg?style=for-the-badge)](https://github.com/Ramon-Sd/marker-plus)
 
 <img src="https://i.imgur.com/RgYEIa9.png" alt="exemplo imagem">
 
